@@ -1,0 +1,26 @@
+
+  
+  .App {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+  
+ 
+.uses {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.matter {
+    width: 100%;
+    height: 80vh;
+    padding-top:100px ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
